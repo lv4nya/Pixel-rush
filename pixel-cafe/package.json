@@ -1,0 +1,17 @@
+{
+  "name": "pixel-cafe",
+  "version": "1.0.0",
+  "description": "A counter-service cafe game prototype built with Phaser 3 + Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
